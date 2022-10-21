@@ -1,3 +1,5 @@
 Commit 1 from main
+Commit 2 from main
 Commit 1 from feature
+Commit 2 from feature
 Commit 1 from subfeature
